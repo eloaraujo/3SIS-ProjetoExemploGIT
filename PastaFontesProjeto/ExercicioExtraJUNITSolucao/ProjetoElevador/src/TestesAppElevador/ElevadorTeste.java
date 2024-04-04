@@ -8,6 +8,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 //Testes unitários do elevador
+//AutomacaodoElevador
 public class ElevadorTeste {
 
 	Elevador elevadorX = new Elevador();
