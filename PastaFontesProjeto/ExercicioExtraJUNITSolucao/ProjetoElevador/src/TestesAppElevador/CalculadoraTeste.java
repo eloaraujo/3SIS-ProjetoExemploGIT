@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 //Testes unitários de funcionamento da Calculadora
+//Soma e subtrai Carga
 public class CalculadoraTeste {
 
 	Calculadora calc = new Calculadora();
